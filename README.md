@@ -39,9 +39,12 @@ An enhanced housing dataset with additional engineered features suitable for mac
 - enhanced_housing_dataset.csv
 - feature_engineering.ipynb
 - README.md
+ 
 screenshots of the images in uploaded in github repository in files section.
+
 colab link:
 
 https://colab.research.google.com/drive/1Y55dbis2-1bEEoE6mdm_Eg9EUygdOOc9?usp=sharing
+
 ## Author
  Durga Prasad
